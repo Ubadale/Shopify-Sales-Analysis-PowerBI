@@ -18,12 +18,7 @@ This project focuses on analyzing Shopify sales data using **Power BI**. The int
 ## 🛠️ Tools & Skills  
 - **Power BI** (data modeling, DAX measures, visualization design)  
 - Data storytelling & business intelligence  
-- Customer analytics & performance tracking  
-
-## 📷 Dashboard Preview  
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](dashboard_overview.png)  
-(Table_overview.png)   
-
+- Customer analytics & performance tracking
+- 
 ## 🚀 Key Takeaway  
 This project demonstrates how raw sales data can be transformed into **actionable insights** that drive smarter decisions in customer engagement and revenue growth.  
